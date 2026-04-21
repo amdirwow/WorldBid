@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: WorldBid
+## Notes: WorldBid auction helper
+## Author: OpenAI
+## Version: 1.2.1
+## SavedVariables: WorldBidDB
+
+WorldBid.lua
